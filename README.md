@@ -1,6 +1,8 @@
 # devcontainer
 A personal DS/ML development container solution for a flexible, portable &amp; reproducible personal development environment that can be quickly deployed anywhere.
 
+Contains many useful python packages for data science / machine learning development including productionizing; based on the [data science cookiecutter](https://github.com/drivendata/cookiecutter-data-science) template.
+
 ### Usage instructions
 
 1. Build docker image 
